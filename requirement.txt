@@ -35,8 +35,6 @@ deprecation==2.1.0
 distlib==0.3.1
 entrypoints==0.3
 et-xmlfile==1.0.1
-facebook-page-scraper==0.1.8
-facebook-scraper==0.2.41
 fake-useragent==0.1.11
 filelock==3.0.12
 Flask==1.1.2
@@ -135,7 +133,6 @@ python-jwt==2.0.1
 python-telegram-bot==13.4.1
 pytrends==4.7.3
 pytz==2021.1
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
